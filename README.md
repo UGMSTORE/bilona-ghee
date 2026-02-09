@@ -3,7 +3,7 @@ This repository contains information about pure desi ghee. Includes bilona metho
 # Bilona Ghee
 
 <p align="center">
-  <img src="https://www.ugmstore.com/wp-content/uploads/a2-desi-cow-bilona-ghee.jpg" 
+  <img src="https://www.ugmstore.com/wp-content/uploads/2025/01/a2-desi-cow-ghee-product-600x600.webp" 
        alt="UGM Village Wala A2 Desi Cow Bilona Ghee" 
        width="400">
 </p>
